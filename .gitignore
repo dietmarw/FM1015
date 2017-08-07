@@ -56,3 +56,23 @@ docs/_build/
 
 # PyBuilder
 target/
+
+\.ipynb_checkpoints/
+
+*.c
+
+*.libs
+
+*.makefile
+
+*.o
+
+*.h
+
+*.json
+
+*.xml
+
+*.mat
+
+figs/
